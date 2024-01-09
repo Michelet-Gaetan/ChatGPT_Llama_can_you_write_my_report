@@ -4,4 +4,6 @@ You'll find in this repository the research data obtained through the experiment
 
 The document named Comments_on_generated_texts.pdf provides a small summary of the quality and structure of the generated texts for each element (introduction, received items, methodology, conversation summary, and locations summary) and model (GPT3.5 and Llama2).
 
+The document named The_Mandate.pdf is the mandate received by the investigator for this fictive investigation.
+
 Then, the other documents provide the prompts submitted and the texts returned by the models. Their name follows this structure: Element_Model.pdf
