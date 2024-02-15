@@ -6,4 +6,4 @@ The document named Comments_on_generated_texts.pdf provides a small summary of t
 
 The document named The_Mandate.pdf is the mandate received by the investigator for this fictive investigation.
 
-Then, the other documents provide the prompts submitted and the texts returned by the models. Their name follows this structure: Element_Model.pdf
+Then, the other documents provide the prompts submitted and the texts returned by the models. Their name follows this structure: Element_Model.pdf. Note that identifying data such as phone numbers, SSID... were anonymized in the documents provided here. Instead of the data, you will find a description between "[]" (e.g. [Phone number of x]).
